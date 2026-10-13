@@ -1,16 +1,67 @@
 {
   "version": 1,
-  "generatedAt": "",
+  "generatedAt": "2026-10-13T16:00:56.590Z",
   "settings": {
     "title": "משימות מתמטיקה",
     "subtitle": "כל המשימות והתרגולים במקום אחד",
-    "classMessages": {},
+    "classMessages": {
+      "ז׳": ""
+    },
     "legacyTeacherMessage": "",
-    "autoArchiveDays": 7,
+    "autoArchiveDays": 10,
     "newBadgeDays": 3,
-    "recentArchiveDays": 7,
-    "classes": ["ז׳", "ט׳ 5 יח״ל"],
+    "recentArchiveDays": 10,
+    "classes": [
+      "ז׳",
+      "ט׳ 5 יח״ל"
+    ],
     "showGeneralTasks": true
   },
-  "tasks": []
+  "tasks": [
+    {
+      "id": "ec5ce779-332e-47dd-89ac-639fa8569863",
+      "title": "מערכת צירים כתיבת שיעורי נקודה",
+      "url": "https://moodlemoe.lms.education.gov.il/mod/quiz/view.php?id=483429",
+      "description": "",
+      "class": "ז׳",
+      "tag": "",
+      "publishedAt": "2026-10-04T09:00:00.000Z",
+      "dueDate": "",
+      "status": "archived",
+      "pinned": false,
+      "createdAt": "2026-09-14T18:39:59.190Z",
+      "archivedAt": "2026-10-11T15:51:05.006Z",
+      "important": false
+    },
+    {
+      "id": "1ce259da-8169-4cfa-a41d-78b9ea61f255",
+      "title": "דלתון תכונות בסיס",
+      "url": "https://moodlemoe.lms.education.gov.il/mod/quiz/attempt.php?attempt=147963&cmid=2928714",
+      "description": "",
+      "class": "ט׳ 5 יח״ל",
+      "tag": "",
+      "publishedAt": "2026-10-06T09:00:00.000Z",
+      "dueDate": "",
+      "status": "active",
+      "pinned": false,
+      "createdAt": "2026-10-06T07:07:19.634Z",
+      "archivedAt": "",
+      "important": false
+    },
+    {
+      "id": "2172224d-315e-467f-ab06-2dde9e45a850",
+      "title": "גיימינג אפ - נקודות במערכת הצירים",
+      "url": "https://moodlemoe.lms.education.gov.il/mod/quiz/attempt.php?attempt=7765&cmid=484050&page=1",
+      "description": "",
+      "class": "ז׳",
+      "tag": "",
+      "publishedAt": "2026-10-13T09:00:00.000Z",
+      "dueDate": "",
+      "status": "active",
+      "pinned": false,
+      "createdAt": "2026-10-13T04:46:31.380Z",
+      "archivedAt": "",
+      "important": true
+    }
+  ]
 }

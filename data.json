@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "generatedAt": "",
+  "settings": {
+    "title": "משימות מתמטיקה",
+    "subtitle": "כל המשימות והתרגולים במקום אחד",
+    "classMessages": {},
+    "legacyTeacherMessage": "",
+    "autoArchiveDays": 7,
+    "newBadgeDays": 3,
+    "recentArchiveDays": 7,
+    "classes": ["ז׳", "ט׳ 5 יח״ל"],
+    "showGeneralTasks": true
+  },
+  "tasks": []
+}

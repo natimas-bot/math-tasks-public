@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-13T16:39:25.852Z",
+  "generatedAt": "2026-10-13T16:41:02.876Z",
   "settings": {
     "title": "משימות מתמטיקה",
     "subtitle": "כל המשימות והתרגולים במקום אחד",
@@ -62,21 +62,6 @@
       "createdAt": "2026-10-13T04:46:31.380Z",
       "archivedAt": "",
       "important": true
-    },
-    {
-      "id": "3a94de57-ed73-4c01-a297-7403f787bda5",
-      "title": "בדיקה",
-      "url": "https://moodlemoe.lms.education.gov.il/course/view.php?id=4557",
-      "description": "",
-      "class": "ז׳",
-      "tag": "",
-      "publishedAt": "2026-10-13T09:00:00.000Z",
-      "dueDate": "",
-      "status": "active",
-      "pinned": false,
-      "createdAt": "2026-10-13T16:38:11.803Z",
-      "archivedAt": "",
-      "important": false
     }
   ]
 }

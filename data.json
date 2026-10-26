@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-21T16:47:03.335Z",
+  "generatedAt": "2026-10-26T05:58:19.017Z",
   "settings": {
     "title": "משימות מתמטיקה",
     "subtitle": "כל המשימות והתרגולים במקום אחד",
@@ -57,10 +57,10 @@
       "tag": "",
       "publishedAt": "2026-10-13T09:00:00.000Z",
       "dueDate": "",
-      "status": "active",
+      "status": "archived",
       "pinned": false,
       "createdAt": "2026-10-13T04:46:31.380Z",
-      "archivedAt": "",
+      "archivedAt": "2026-10-25T18:43:47.850Z",
       "important": true
     },
     {
@@ -77,6 +77,21 @@
       "createdAt": "2026-10-21T16:46:45.834Z",
       "archivedAt": "",
       "important": false
+    },
+    {
+      "id": "bcd24e1c-f9a8-46a2-a28e-80db28400206",
+      "title": "תרגול חזרה למבחן ראשון",
+      "url": "https://math7-hazara.sites.tab.bot/",
+      "description": "",
+      "class": "ז׳",
+      "tag": "חזרה",
+      "publishedAt": "2026-10-26T10:00:00.000Z",
+      "dueDate": "",
+      "status": "active",
+      "pinned": false,
+      "createdAt": "2026-10-26T05:58:17.795Z",
+      "archivedAt": "",
+      "important": true
     }
   ]
 }

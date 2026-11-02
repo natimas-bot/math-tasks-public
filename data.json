@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-02T19:44:07.772Z",
+  "generatedAt": "2026-11-02T19:44:11.489Z",
   "settings": {
     "title": "משימות מתמטיקה",
     "subtitle": "כל המשימות והתרגולים במקום אחד",
@@ -105,6 +105,21 @@
       "status": "active",
       "pinned": false,
       "createdAt": "2026-11-02T19:44:06.329Z",
+      "archivedAt": "",
+      "important": false
+    },
+    {
+      "id": "7e091768-92f9-4848-a994-ed2cdc0d6771",
+      "title": "מזגן על קיר הכיתה- זוויות",
+      "url": "https://moodlemoe.lms.education.gov.il/mod/quiz/attempt.php?attempt=835615&cmid=484051",
+      "description": "",
+      "class": "ז׳",
+      "tag": "",
+      "publishedAt": "2026-11-02T10:00:00.000Z",
+      "dueDate": "",
+      "status": "active",
+      "pinned": false,
+      "createdAt": "2026-11-02T19:44:08.005Z",
       "archivedAt": "",
       "important": false
     }
